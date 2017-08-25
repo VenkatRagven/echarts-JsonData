@@ -1,0 +1,41 @@
+{	
+    "GRAPH001Data":["51%-60%", "61%-70%", "71%-80%", "81%-90%", "91%-100%"],
+	"GRAPH001Legend":["Today", "Goal"],
+	"GRAPH001SeriesToday":[9, 10, 6, 2, 2],
+	"GRAPH001SeriesGoal":[13, 17, 19, 14, 10],
+	"GRAPH001SeriesColor":["#77AA41","#003B5B","#333333"],
+
+  "mapGraph":[
+    {"name" : "France", "value" : "18.1"},
+    {"name" : "Germany", "value" : "18.1"},
+    {"name" : "United Kingdom", "value" : "18.1"},
+    {"name" : "United States of America", "value" : "49.0"}
+    
+],
+
+"pieGraph":[
+    {"name" : "Hours", "value" : "19", "color" : "#467E19", "barBorderRadius": 0 },
+    {"name" : "Minutes", "value" : "20", "color" : "#77AA41", "barBorderRadius": 0},
+    {"name" : "Months", "value" : "21", "color" : "#003B5B", "barBorderRadius": 0},
+    {"name" : "Weeks", "value" : "30", "color" : "#003D98", "barBorderRadius": 0},
+    {"name" : "Days", "value" : "26", "color" : "#888888", "barBorderRadius": 0}
+    
+],
+
+"surveyPieGraph":[
+	{"name" : "Manager", "value" : "48"},
+    {"name" : "C-Level executives", "value" : "8"},
+    {"name" : "Director", "value" : "20"},
+    {"name" : "Vice president", "value" : "10"}
+],
+
+"testGraph":[
+	{"name" : "Manager", "value" : ""},
+    {"name" : "C-Level executives", "value" : ""},
+    {"name" : "Director", "value" : ""},
+    {"name" : "Vice president", "value" : ""}
+],
+  
+"Graph005Data":["CIO/Office of \n the CIO/CTO", "Enterprise \n Architect", "Application \n Development", "IT Infrastructre \n and Operations"]
+
+}
